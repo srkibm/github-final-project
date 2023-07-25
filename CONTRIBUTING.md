@@ -1,1 +1,2 @@
-https://github.com/srkibm/github-final-project/blob/main/CODE_OF_CONDUCT.md?plain=1
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
+
